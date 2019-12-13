@@ -1,0 +1,9 @@
+type        = "docker"
+allocate    = true
+workers     = 2
+description = "vimDocker"
+username    = "admin"
+password    = "openbaton"
+logLevel    = "DEBUG"
+brokerIp    = "localhost"
+brokerPort  = 5672

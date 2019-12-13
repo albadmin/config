@@ -1,0 +1,11 @@
+type        = "docker"
+endpoint    = "vnfmDocker"
+allocate    = true
+workers     = 1
+description = "vnfmDocker"
+username    = "admin"
+password    = "openbaton"
+logLevel    = "DEBUG"
+brokerIp    = "localhost"
+brokerPort  = 5672
+timeout	    = 30
